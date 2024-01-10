@@ -104,3 +104,6 @@ Assert the values of user variables:
     name: "Alice"
     age: "5"
 
+
+ API KEY ANAHTARININIZ SİZE ÖZELDİR.
+
