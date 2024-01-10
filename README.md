@@ -1,3 +1,25 @@
+
+
+                                             Kullanilabilirlik Testi
+
+Giriş: Kullanılabilirlik testinde web sitesindeki chatbot özelliğinin kullanım kolaylığını ve etkinliğini değerlendirdik. Chatbot, yardım sağlamak ve kullanıcı sorgularını yanıtlamak için tasarlanmıştır.
+
+Kullanıcılar: Kullanılabilirlik testi, farklı demografik özellikleri temsil eden çeşitli katılımcı gruplarını içeriyordu. İşe alınan kullanıcılar, çeşitli yaş gruplarından, eğitim geçmişlerinden ve teknolojiyle ilgili deneyim düzeylerinden bireylerden oluşuyordu.
+
+Görevler: Kullanılabilirlik testi, chatbot özelliğinin performansını değerlendirmek için çeşitli görevler içeriyordu. Görevler, sohbet robotuyla sohbet başlatmak, web sitesinin içeriğiyle ilgili sorular sormak ve sohbet robotunun doğru ve yararlı yanıtlar verme yeteneğini değerlendirmek gibi görevleri içeriyordu.
+
+Yöntem: Kullanılabilirlik testi kontrollü bir ortamda internet erişimi olan bir bilgisayar kullanılarak gerçekleştirilmiştir. Katılımcılara sohbet robotuyla nasıl etkileşim kuracakları konusunda net talimatlar verildi ve test başlamadan önce inceleyip imzalamaları için bir onay formu verildi. Katılımcıların etkileşimlerini ve geri bildirimlerini yakalamak için test oturumları kaydedildi.
+
+Sonuçlar:
+Görev Tamamlanma Durumu: Kullanılabilirlik testi, katılımcıların atanan görevleri chatbot'u kullanarak tamamlama becerilerini değerlendirdi. Görev tamamlanma durumu, katılımcıların chatbottan istenen bilgiyi başarıyla alıp alamadıklarına göre değerlendirildi.
+Hata Oranı: Test ayrıca, test sırasında chatbot tarafından sağlanan yanlış veya yanıltıcı yanıtların sıklığını ifade eden hata oranını da ölçtü. Hata oranı, katılımcıların etkileşimleri analiz edilerek ve beklenen yanıtlar, chatbot tarafından sağlanan gerçek yanıtlarla karşılaştırılarak hesaplandı.
+
+Kullanıcılar Arasında Görev Tamamlama Süresi Dağılımı: Test, her katılımcının atanan görevleri tamamlamak için harcadığı süreyi kaydetti. Görev tamamlama sürelerinin kullanıcılar arasındaki dağılımı, herhangi bir önemli değişiklik veya eğilimi belirlemek için analiz edildi.
+
+Memnuniyet Anketi Sonucu: Kullanılabilirlik testini tamamladıktan sonra katılımcılardan, chatbot ile ilgili genel deneyimlerine ilişkin geri bildirim sağlamak için bir memnuniyet anketi doldurmaları istendi. Anket, kullanıcı memnuniyetini, kullanım kolaylığını ve chatbot'un algılanan kullanışlılığını değerlendirmeyi amaçladı.
+
+Sonuç: Kullanılabilirlik testi sonuçlarına göre chatbot özelliğinde çeşitli sorunlar tespit edildi. Bu sorunlar arasında yüksek hata oranı, tutarsız yanıtlar ve belirli görevler için daha uzun görev tamamlama süreleri yer alıyordu. Memnuniyet anketinden elde edilen geri bildirimler, kullanıcıların chatbotun performansını kullanıcı dostu olma ve etkililik açısından ortalamanın altında bulduğunu da gösterdi. Bu bulgular, kullanılabilirliğini artırmak için chatbotun işlevselliğinde, doğruluğunda ve kullanıcı deneyiminde iyileştirmeler yapılması gerektiğini ortaya koyuyor.
+
 Test Schema 
 # Each top level key is a unique name for the test.
 test_name:
